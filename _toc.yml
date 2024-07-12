@@ -4,6 +4,11 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
+- file: aero/aerospace.md
+- file: envo/environmental.md
+- file: mech/mechatronics.md
+- file: bio/biomedical.md
+
