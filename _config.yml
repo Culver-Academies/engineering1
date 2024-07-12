@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Python Programming at Culver Academies
+title: Applications of Engineering 1
 author: David Lawrence and Alexander Dowling
 logo: logo.png
 exclude_patterns: [.DS_Store, "**.ipynb_checkpoints", "**.pytest_cache"]
