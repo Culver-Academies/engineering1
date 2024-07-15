@@ -1,7 +1,6 @@
-# Welcome to Applications of Engineering 1
+# Applications of Engineering 1
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Welcome to Applications of Engineering 1
 It shows off a few of the major file types, as well as some sample content.
 It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
