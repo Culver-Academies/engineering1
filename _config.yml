@@ -3,7 +3,7 @@
 
 title: Applications of Engineering 1
 author: David Lawrence and Alexander Dowling
-logo: logo.png
+logo: Culver-Academies-Logo.png
 exclude_patterns: [.DS_Store, "**.ipynb_checkpoints", "**.pytest_cache"]
 
 # Launch on Google Colab button
