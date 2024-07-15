@@ -3,12 +3,20 @@
 
 format: jb-book
 root: intro
-chapters:
-# - file: markdown
-# - file: notebooks
-# - file: markdown-notebooks
-- file: aero/aerospace.md
-- file: envo/environmental.md
-- file: mech/mechatronics.md
-- file: bio/biomedical.md
+
+parts:
+  - caption: Course Information
+    chapters:
+    - file: Syllabus.md
+    
+  - caption: Topical Materials
+    numbered: true
+    chapters:
+    # - file: markdown
+    # - file: notebooks
+    # - file: markdown-notebooks
+      - file: aero/aerospace.md
+      - file: envo/environmental.md
+      - file: mech/mechatronics.md
+      - file: bio/biomedical.md
 
