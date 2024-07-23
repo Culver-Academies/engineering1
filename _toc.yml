@@ -16,11 +16,16 @@ parts:
     # - file: notebooks
     # - file: markdown-notebooks
       - file: aero/aerospace.md
+      
       - file: envo/environmental.md
+      
       - file: mech/mechatronics.md
         sections:
         - file: mech/arduino.md
         - file: mech/ELEGOO.md
         - file: mech/TurboPi.md
+        - file: mech/optimization.md
+        - file: mech/designchallenge.md
+        
       - file: bio/biomedical.md
 
