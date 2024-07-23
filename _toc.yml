@@ -18,7 +18,7 @@ parts:
       - file: aero/aerospace.md
       - file: envo/environmental.md
       - file: mech/mechatronics.md
-#        sections:
- #       -file: mech/arduino.md 
+        sections:
+        - file: mech/arduino.md 
       - file: bio/biomedical.md
 
