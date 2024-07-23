@@ -7,3 +7,6 @@ Let's take a look at a couple examples of what mechatronics engineers are involv
 * InsightTRAC - Robotic Mummy Removal https://www.insighttrac.com/about-us/
 * Search and Rescue Robots Saving Lives https://www.youtube.com/watch?v=FrgEbx6esYE 
 * Autonomous Platform for Air and Ground Robots https://www.youtube.com/watch?v=NrMW0pLl8WY
+
+Use the graphic below to complete the assignment posted on Schoology. 
+
