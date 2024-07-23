@@ -10,5 +10,5 @@ Using Company Portal, installed on your Culver issued laptop, download and insta
 
 Read through the following PDF and take notes on the capabilities of an Arduino, the main circuit components of the Arduino board, and how to use them. 
 
-![] (1.2 First Look Arduino.pdf)
+![] (mech/1.2 First Look Arduino.pdf)
 
