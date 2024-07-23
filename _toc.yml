@@ -21,5 +21,6 @@ parts:
         sections:
         - file: mech/arduino.md
         - file: mech/ELEGOO.md
+        - file: mech/TurboPi.md
       - file: bio/biomedical.md
 
