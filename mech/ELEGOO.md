@@ -10,3 +10,5 @@ Takes notes over **ALL** functions used and concepts mentioned below. Document w
 * Describe how Pulse Width Modulation works and controlled by the *analogWrite* function
 * Describe how a motor is controlled and the purpose of a motor controller
 * Describe the difference between a servo and a motor and provide three applications of each
+
+Continue to use the [Arduino Reference](https://www.arduino.cc/reference/en/) as necessary. 
