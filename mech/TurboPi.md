@@ -2,7 +2,7 @@
 
 ![](TurboPi_Pic.jpg)
 
-* **Biological Systems:** Insulin/Glucose ![](TurboPi_Pic.jpg) <br>Image Credit: bio.libretexts.org
+* **Biological Systems:** Insulin/Glucose ![](https://drive.google.com/file/d/1z-xrXpYiMW2ydZzoZm4_kWz5LPmV6sI5/view?usp=drive_link) <br>Image Credit: bio.libretexts.org
 
 We will be using the **TurboPi** robot for our design challenge. The **TurboPi** uses a **RaspberryPi** to control it which has much higher processing capabilities than an **Arduino**. Watch the video below to witness what it can do. 
 
