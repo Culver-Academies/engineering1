@@ -1,6 +1,6 @@
 # Arduino
 
-The term **Arduino** can be used to talk about the physical board that has a processor to control motors, sensors, and various electronics *or* it can be used to talk about the software that is used to program the board. You will learn about Arduino (the board and the software) so you are familiar with how it works and to introduce you to some progamming. However, we will be using a **Raspberry Pi** for our design challenge. 
+The term **Arduino** can be used to talk about the physical board that has a processor to control motors, sensors, and various electronics *or* it can be used to talk about the software that is used to program the board. You will learn about Arduino (the board and the software) so you are familiar with how it works and to introduce you to some progamming. However, we will be using a **Raspberry Pi** (board) and **Python** (programming language) for our design challenge. 
 
 ## Install Arduino IDE from Company Portal
 
