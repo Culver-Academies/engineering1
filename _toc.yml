@@ -19,6 +19,7 @@ parts:
       - file: envo/environmental.md
       - file: mech/mechatronics.md
         sections:
-        - file: mech/arduino.md 
+        - file: mech/arduino.md
+        - file: mech/ELEGOO.md
       - file: bio/biomedical.md
 
