@@ -12,3 +12,12 @@ Read through the following PDF and take notes in your **Engineering Notebook** o
 
 [First Look at Arduino.pdf ](https://drive.google.com/file/d/18EQRWNUOjW3YH3a1C8iBYt0frR-y16M4/view?usp=sharing)
 
+## Blink and Add Libraries
+
+Read through the following PDF and take notes in your **Engineering Notebook** on the syntax of the Blink program as well as functions used within the program. You will need to know how to make comments within a program and how to use the following functions: setup, loop, digitalWrite, and delay.  Use the Arduino Reference link below to find out more about each function. 
+
+### Blink the Onboard LED
+Perform the actions described within the PDF with your Arduino board as a team. Take notes on any issues and how you went about resolving them. 
+
+### Action Item
+Demonstrate: Blink the LED at 60 Hz and 120 Hz. At what frequency are you no longer able to detect it blinking? Record using slow-motion on your phone to show that it is still blinking. 
