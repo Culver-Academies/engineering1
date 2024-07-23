@@ -15,7 +15,9 @@ Read through the following PDF and take notes in your **Engineering Notebook** o
 ## Blink and Add Libraries
 
 Read through the following PDF and take notes in your **Engineering Notebook** on the syntax of the Blink program as well as functions used within the program. You will need to know how to make comments within a program and how to use the following functions: setup, loop, digitalWrite, and delay.  Use the Arduino Reference link below to find out more about each function. 
+
 [Blink and Add Libraries.pdf](https://drive.google.com/file/d/1K_59O8riaTt0U8QjNAIXVQDmxSYzLI2a/view?usp=drive_link) 
+[Arduino Reference] (https://www.arduino.cc/reference/en/)
 
 ### Blink the Onboard LED
 Perform the actions described within the PDF with your Arduino board as a team. Take notes on any issues and how you went about resolving them. 
