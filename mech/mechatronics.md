@@ -8,5 +8,6 @@ Let's take a look at a couple examples of what mechatronics engineers are involv
 * Search and Rescue Robots Saving Lives https://www.youtube.com/watch?v=FrgEbx6esYE 
 * Autonomous Platform for Air and Ground Robots https://www.youtube.com/watch?v=NrMW0pLl8WY
 
-Use the graphic below to complete the assignment posted on Schoology. 
+Use the **mechatronics diagram** below to complete the assignment posted on Schoology. 
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Mecha.gif) <br>Image Credit:By Ahm2307 at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3267847
