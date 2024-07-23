@@ -4,9 +4,9 @@ In this unit you will learn about Mechatronics and what it means to be a Mechatr
 
 Let's take a look at a couple examples of what mechatronics engineers are involved in:
 
-* InsightTRAC - Robotic Mummy Removal https://www.insighttrac.com/about-us/
-* Search and Rescue Robots Saving Lives https://www.youtube.com/watch?v=FrgEbx6esYE 
-* Autonomous Platform for Air and Ground Robots https://www.youtube.com/watch?v=NrMW0pLl8WY
+* [InsightTRAC - Robotic Mummy Removal](https://www.insighttrac.com/about-us/)
+* [Search and Rescue Robots Saving Lives](https://www.youtube.com/watch?v=FrgEbx6esYE) 
+* [Autonomous Platform for Air and Ground Robots](https://www.youtube.com/watch?v=NrMW0pLl8WY)
 
 Use the **mechatronics diagram** below to complete the assignment posted on Schoology. 
 
