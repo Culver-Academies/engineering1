@@ -35,5 +35,12 @@ to the left. When B wheels rotate in reverse and A wheels rotate forward, the ca
 Now you will work on programming the TurboPi Robot to move in various directions. 
 You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Move Forward, Backward, Left, and Right.pdf](https://drive.google.com/file/d/1tCgWk_yjmzWOclA-Nno3G_lW1cvJ29Ni/view?usp=drive_link) document to program the robot through the **Real VNC Viewer** software. 
 
+**Actions to demonstrate to instructor**
+* Move forward for 1 second
+* Move backward for 2 seconds
+* Move to the left for 1 second
+* Move to the right for 0.5 seconds
+* Move in a square (forward, right, backward, left) making the round trip 5 seconds long
+
 
 
