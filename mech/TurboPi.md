@@ -33,7 +33,7 @@ to the left. When B wheels rotate in reverse and A wheels rotate forward, the ca
 ![](../MecanumForwardBackSlide.png)
 
 Now you will work on programming the TurboPi Robot to move in various directions. 
-You must demonstrate the following movements to your instructor in class with your robot. Use the ![TurboPi Move Forward, Backward, Left, and Right](https://drive.google.com/file/d/1tCgWk_yjmzWOclA-Nno3G_lW1cvJ29Ni/view?usp=drive_link) document to program the robot through the **Real VNC Viewer** software. 
+You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Move Forward, Backward, Left, and Right.pdf](https://drive.google.com/file/d/1tCgWk_yjmzWOclA-Nno3G_lW1cvJ29Ni/view?usp=drive_link) document to program the robot through the **Real VNC Viewer** software. 
 
 
 
