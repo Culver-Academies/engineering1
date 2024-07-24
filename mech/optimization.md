@@ -8,6 +8,6 @@ The **Mechatronics Design Challenge** will require you to perform a search-and-r
 ## Step 2 - Determine the Rotating Speed of your TurboPi Robot
 
 
-## Step 3 - Calculating the Time to Navigate through a given Path
+## Step 3 - Calculating the Time to Navigate through a Given Path
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
