@@ -51,3 +51,12 @@ right wheels rotate in reverse, the car turns **clockwise** on the spot. The ana
 force is as pictured.
 
 ![](../MecanumTurn.png)
+
+Now you will work on programming the TurboPi Robot to turn **counterclockwise** and **clockwise**. 
+You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Rotating.pdf](https://drive.google.com/file/d/1CbrnBQZT-vjS1WbPN6FqY1I4YLGYoaZE/view?usp=drive_link) document to program the robot through the **Real VNC Viewer** software. 
+
+**Movements to demonstrate to instructor**
+* Rotate clockwise for 1 second with a speed of 50
+* Rotate counterclockwise for 2 seconds with a speed of 25
+* Move forward for 1 sec at speed 50, turn 180 degrees, and move forward (back to the starting point) at speed 100 and stop where you started
+* Make a continuous figure eight approximately 2 feet by four feet using only forward and rotations.
