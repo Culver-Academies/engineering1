@@ -44,7 +44,7 @@ You must demonstrate the following movements to your instructor in class with yo
 
 ## Getting the TurboPi Robot to Turn
 
-According to characteristic of the mecanum wheel, when only two left wheels
+According to the characteristics of the mecanum wheel, when only two left wheels
 rotate in reverse and two right wheels rotate forward, the car turns
 **counterclockwise** on the spot. When two left wheels rotate forward and two
 right wheels rotate in reverse, the car turns **clockwise** on the spot. The analysis of
