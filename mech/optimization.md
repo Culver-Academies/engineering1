@@ -4,6 +4,7 @@ The **Mechatronics Design Challenge** will require you to perform a search-and-r
 
 ## Step 1 - Determine the Forward Speed of your TurboPi Robot
 
+The speed of the robot can be determined using the basic speed equation: **Speed (ft/s) = Distance (ft)/Time (s)**
 
 ## Step 2 - Determine the Rotating Speed of your TurboPi Robot
 
