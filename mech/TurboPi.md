@@ -30,4 +30,7 @@ backward. When A wheels rotate in reverse and B wheels rotate forward, the car *
 to the left. When B wheels rotate in reverse and A wheels rotate forward, the car
 **tranlates** to the right. The analysis of force is as pictured.
 
+![](../MecanumForwardBackSlide.png)
+
+
 
