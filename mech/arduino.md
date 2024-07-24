@@ -26,5 +26,9 @@ Read through the following PDF and take notes in your **Engineering Notebook** o
 ### Blink the Onboard LED
 Perform the actions described within the PDF with your Arduino board as a team. Take notes in your **Engineering Notebook** on any issues and how you went about resolving them. 
 
-### Action Item
-Demonstrate: Blink the LED at 60 Hz and 120 Hz. At what frequency are you no longer able to detect it blinking? Record using slow-motion on your phone to show that it is still blinking. 
+### Action Items
+**Demonstrate to your instructor the following:**
+* Blink the LED at 60 Hz
+* Blink the LED at 120 Hz.
+* At what frequency are you no longer able to detect it blinking?
+* Record using slow-motion on your phone to show that it is still blinking. 
