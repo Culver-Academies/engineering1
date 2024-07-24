@@ -6,6 +6,8 @@ The **Mechatronics Design Challenge** will require you to perform a search-and-r
 
 The speed of the robot can be determined using the basic speed equation: **Speed (ft/s) = Distance (ft)/Time (s)**
 
+Program your TurboPi Robot for varying times moving forward (at least five data points) and record in your **Engineering Notebook**. Create a graph of **Distance (ft) vs Time (s)** of the data you collected and calculate the slope of the best fit line, which will be the average speed (ft/s) that you will use for further calculations. 
+
 ## Step 2 - Determine the Rotating Speed of your TurboPi Robot
 
 
