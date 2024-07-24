@@ -4,13 +4,24 @@ The **Mechatronics Design Challenge** will require you to perform a search-and-r
 
 ## Step 1 - Determine the Forward Speed of your TurboPi Robot
 
-The speed of the robot can be determined using the basic speed equation: **Speed (ft/s) = Distance (ft)/Time (s)**
+The speed of the robot can be determined using the basic speed equation: 
+
+**Speed (ft/s) = Distance (ft)/Time (s)**
 
 * Program your TurboPi Robot for varying times moving forward (at least five data points) and record in your **Engineering Notebook** using a table. 
 * Create a graph of **Distance (ft) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
-* Calculate the slope of the best-fit line, which will be the **average speed (ft/s)** that you will use for further calculations. 
+* Calculate the slope of the best-fit line, which will be the **Forward Speed (ft/s)** that you will use for further calculations. 
 
-## Step 2 - Determine the Rotating Speed of your TurboPi Robot
+## Step 2 - Determine the Turning Speed of your TurboPi Robot
+
+In a similar fashion to your forward speed, you can calculate the turning speed of your robot: 
+
+**Turning Speed (degrees/s) = Turn angle (degrees)/Time (s)**
+
+* Program your TurboPi Robot for varying times turning (at least five data points) and record in your **Engineering Notebook** using a table. 
+* Create a graph of **DTurn angle (degrees) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
+* Calculate the slope of the best-fit line, which will be the **Turning Speed (degrees/s)** that you will use for further calculations.
+* Check to see if you robot turns at different speeds to the left versus the right. Make a note of this in your **Engineering Noteebook**. How can you account for this in future calculations?
 
 
 ## Step 3 - Calculating the Time to Navigate through a Given Path
