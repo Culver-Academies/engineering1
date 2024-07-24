@@ -28,6 +28,6 @@ In a similar fashion to your forward speed, you can calculate the turning speed 
 
 Suppose you had a path given to you and you needed to calculate the total time to traverse the path. Consider the path below. 
 
-![](../Robot Path on Course.png)
+![](../Robot_Path_on_Course.png)
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
