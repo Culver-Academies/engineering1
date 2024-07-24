@@ -19,7 +19,7 @@ In a similar fashion to your forward speed, you can calculate the turning speed 
 **Turning Speed (degrees/s) = Turn angle (degrees)/Time (s)**
 
 * Program your TurboPi Robot for varying times turning (at least five data points) and record in your **Engineering Notebook** using a table. 
-* Create a graph of **DTurn angle (degrees) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
+* Create a graph of **Turn angle (degrees) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
 * Calculate the slope of the best-fit line, which will be the **Turning Speed (degrees/s)** that you will use for further calculations.
 * Check to see if you robot turns at different speeds to the left versus the right. Make a note of this in your **Engineering Noteebook**. How can you account for this in future calculations?
 
