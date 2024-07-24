@@ -26,4 +26,6 @@ In a similar fashion to your forward speed, you can calculate the turning speed 
 
 ## Step 3 - Calculating the Time to Navigate through a Given Path
 
+Suppose you had a path given to you and you needed to calculate the total time to traverse the path. Consider the path below. 
+
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
