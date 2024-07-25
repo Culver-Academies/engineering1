@@ -2,7 +2,9 @@
 
 Welcome to the website for Applications of Engineering 1 at Culver Academies.
 
-## Website Maintance Tips
+## Website Maintenance Tips
+
+Use GitHub desktop to sync files with your local computer.
 
 Here are common commands for updating the website.
 
@@ -30,4 +32,4 @@ Finally, you can run:
 jupyter-book clean ./
 ```
 
-in the same folder to remove the temporary build files. This is helpful for keeping you local git folder clean.
+in the same folder to remove the temporary build files. This helps keep your local git folder clean.
