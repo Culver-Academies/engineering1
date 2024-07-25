@@ -34,8 +34,8 @@ Consider the path below. How would you determine the total time to took to go fr
 
 You would need to calculate (or measure directly) each forward distance and each turn angle, then using your **Forward Speed** and your **Turning Speed** you could calulate the time it takes to traverse each segment of the path.
 
-Follow along with your instructor to review the following Excel file. You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
+**Download** the following Excel file from Schoology and follow along with your instructor as they review how to set it up.  You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
 
-[TurboPi Path Calculations](https://docs.google.com/spreadsheets/d/1-IprmjijdpJLzjc9uafNtS7Kjjtsublu/edit?usp=drive_link&ouid=117565185622214504083&rtpof=true&sd=true)
+[TurboPi Path Calculations](https://culver.schoology.com/course/7355947550/materials/gp/7359710203)
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
