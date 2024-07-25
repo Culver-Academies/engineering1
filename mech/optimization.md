@@ -40,4 +40,4 @@ You will need to calculate (or measure directly) each forward distance and each 
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
 
-Now that you have learned how to use Excel to automate the calcualtions, determine the **Total Time for Path** for at least three different paths. You will use the **Total Time for Path** as *one* of the criteria in your **Decision Matrix**. 
+Now that you have learned how to use Excel to automate the calculations, determine the **Total Time for Path** for at least three different paths. You will use the **Total Time for Path** as *one* of the criteria in your **Decision Matrix**. 
