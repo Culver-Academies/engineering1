@@ -26,8 +26,16 @@ In a similar fashion to your forward speed, you can calculate the turning speed 
 
 ## Step 3 - Calculating the Time to Navigate through a Given Path
 
-Suppose you had a path given to you and you needed to calculate the total time to traverse the path. Consider the path below. 
+Suppose you had a path given to you and you needed to calculate the total time to traverse the path. 
+
+Consider the path below. How would you determine the total time to took to go from start to finish?
 
 ![](../Robot_Path_on_Course.png)
+
+You would need to calculate (or measure directly) each forward distance and each turn angle, then using your **Forward Speed** and your **Turning Speed** you could calulate the time it takes to traverse each segment of the path.
+
+Follow along with your instructor to review the following Excel file. You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
+
+[TurboPi Path Calculations](https://docs.google.com/spreadsheets/d/1-IprmjijdpJLzjc9uafNtS7Kjjtsublu/edit?usp=drive_link&ouid=117565185622214504083&rtpof=true&sd=true)
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
