@@ -1,6 +1,6 @@
 # Optimization of a Path
 
-The **Mechatronics Design Challenge** will require you to perform a search-and-rescue mission on a stranded individual while navigating through **extremely dangerous** materials that you must not touch! 
+The **Mechatronics Design Challenge** will require you to perform a search-and-rescue mission while navigating through **extremely dangerous** materials that you must not touch! 
 
 ![](../Minefield.png)
 
