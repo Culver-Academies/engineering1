@@ -32,10 +32,12 @@ Consider the path below. How would you determine the total time to took to go fr
 
 ![](../Robot_Path_on_Course.png)
 
-You would need to calculate (or measure directly) each forward distance and each turn angle, then using your **Forward Speed** and your **Turning Speed** you could calulate the time it takes to traverse each segment of the path.
+You wwill need to calculate (or measure directly) each forward distance and each turn angle, then using your **Forward Speed** and your **Turning Speed**, calulate the time it takes to traverse each segment of the path. Finally, add up all the times to determine the total time it takes to complete the path. 
 
 **Download** the following Excel file from Schoology and follow along with your instructor as they review how to set it up.  You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
 
 [TurboPi Path Calculations](https://culver.schoology.com/course/7355947550/materials/gp/7359710203)
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
+
+Now that you have learned how to use Excel to automate the calcualtions, determine the **Total Time for Path** for at least three different paths. You will use the **Total Time for Path** as *one* of the criteria in your **Decision Matrix**. 
