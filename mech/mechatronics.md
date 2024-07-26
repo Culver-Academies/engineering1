@@ -10,5 +10,5 @@ Let's take a look at a couple examples of what mechatronics engineers are involv
 
 Use the **mechatronics diagram** below to complete the assignment posted on Schoology. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Mecha.gif) <br>Image Credit:By Ahm2307 at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3267847
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Mecha.gif) <br>Image Credit: [By Ahm2307 at English Wikipedia, CC BY 2.5](https://commons.wikimedia.org/w/index.php?curid=3267847)
 
