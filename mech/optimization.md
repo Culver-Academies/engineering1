@@ -44,7 +44,7 @@ You will need to calculate (or measure directly) each forward distance and each 
 
 **Download** the following Excel file and follow along with your instructor as they review how to set it up.  You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
 
-[TurboPi Path Calculations](https://culver.schoology.com/course/7355947550/materials/gp/7359710203)
+[TurboPi Path Calculations](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/TurboPi_Path_Calculations.xlsx)
 
 ## Step 4 - Repeat the Process Multiple Times to Determine the Quickest Path
 
