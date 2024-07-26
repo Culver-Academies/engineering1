@@ -31,7 +31,7 @@ backward. When A wheels rotate in reverse and B wheels rotate forward, the car *
 to the left. When B wheels rotate in reverse and A wheels rotate forward, the car
 **tranlates** to the right. The analysis of force is as pictured.
 
-![](../MecanumForwardBackSlide.png)
+![](../MecanumForwardBackSlide.png) <br>Image Credit: [HiWonder.com](https://www.hiwonder.com.cn/store/learn/117.html)
 
 Now you will work on programming the TurboPi Robot to move in various directions. 
 You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Move Forward, Backward, Left, and Right.pdf](https://drive.google.com/file/d/1tCgWk_yjmzWOclA-Nno3G_lW1cvJ29Ni/view?usp=drive_link) document (along with your instructor's help ) to program the robot through the **Real VNC Viewer** software. 
@@ -51,7 +51,7 @@ rotate in reverse and two right wheels rotate forward, the car turns
 right wheels rotate in reverse, the car turns **clockwise** on the spot. The analysis of
 force is as pictured.
 
-![](../MecanumTurn.png)
+![](../MecanumTurn.png) <br>Image Credit: [HiWonder.com](https://www.hiwonder.com.cn/store/learn/117.html)
 
 Now you will work on programming the TurboPi Robot to turn **counterclockwise** and **clockwise**. 
 You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Rotating.pdf](https://drive.google.com/file/d/1CbrnBQZT-vjS1WbPN6FqY1I4YLGYoaZE/view?usp=drive_link) document to program the robot through the **Real VNC Viewer** software. 
