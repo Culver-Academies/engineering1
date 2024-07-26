@@ -12,6 +12,8 @@ The speed of the robot can be determined using the basic speed equation:
 
 **Speed (ft/s) = Distance (ft)/Time (s)**
 
+**Complete the following in your Engineering Notebook**
+
 * Program your TurboPi Robot for varying times moving forward (at least five data points) and record in your **Engineering Notebook** using a table. 
 * Create a graph of **Distance (ft) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
 * Calculate the slope of the best-fit line, which will be the **Forward Speed (ft/s)** that you will use for further calculations. 
@@ -21,6 +23,8 @@ The speed of the robot can be determined using the basic speed equation:
 In a similar fashion to your forward speed, you can calculate the turning speed of your robot: 
 
 **Turning Speed (degrees/s) = Turn angle (degrees)/Time (s)**
+
+**Complete the following in your Engineering Notebook**
 
 * Program your TurboPi Robot for varying times turning (at least five data points) and record in your **Engineering Notebook** using a table. 
 * Create a graph of **Turn angle (degrees) vs Time (s)** of the data you collected in your **Engineering Notebook**. Make it as large as an entire page. 
@@ -38,7 +42,7 @@ Consider the path below. How would you determine the total time to took to go fr
 
 You will need to calculate (or measure directly) each forward distance and each turn angle, then using your **Forward Speed** and your **Turning Speed**, calculate the time it takes to traverse each segment of the path. Finally, add up all the times to determine the total time it takes to complete the path. 
 
-**Download** the following Excel file from Schoology and follow along with your instructor as they review how to set it up.  You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
+**Download** the following Excel file and follow along with your instructor as they review how to set it up.  You will make one yourself using Excel for the **Mechatronics Design Challenge**. 
 
 [TurboPi Path Calculations](https://culver.schoology.com/course/7355947550/materials/gp/7359710203)
 
