@@ -23,5 +23,5 @@ Use the image below to overlay on your Excel file for **Step 5** of your portfol
 [Search and Rescue Obstacle Course](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/Robot_Course.png)
 ![Search and Rescue Obstacle Course](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/Robot_Course.png)
 
-
+## Video Record your Robot Completing the Path
 
