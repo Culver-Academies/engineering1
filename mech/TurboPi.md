@@ -39,9 +39,9 @@ You must demonstrate the following movements to your instructor in class with yo
 **Movements to demonstrate to instructor**
 * Move forward for 1 second with a speed of 50, then stop indefinitely
 * Move backward for 2 seconds with a speed of 25, then stop indefinitely
-* Move to the left for 1 second with a speed of 75, then stop indefinitely
-* Move to the right for 0.5 seconds with a speed of 100, then stop indefinitely
-* Move in a square (forward, right, backward, left) making the round trip 5 seconds long, then stop indefinitely
+* Strafe to the left for 1 second with a speed of 75, then stop indefinitely
+* Strafe to the right for 0.5 seconds with a speed of 100, then stop indefinitely
+* Move in a square (forward, right, backward, left) making the round trip ~5 seconds long, then stop indefinitely
 
 ## Getting the TurboPi Robot to Turn
 
