@@ -54,7 +54,7 @@ force is as pictured.
 ![](../MecanumTurn.png) <br>Image Credit: [HiWonder.com](https://www.hiwonder.com.cn/store/learn/117.html)
 
 Now you will work on programming the TurboPi Robot to turn **counterclockwise** and **clockwise**. 
-You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi Rotating.pdf](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/TurboPi_Rotating.pdf) document to program the robot through the **Real VNC Viewer** software. 
+You must demonstrate the following movements to your instructor in class with your robot. Use the [TurboPi_Rotating.pdf](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/TurboPi_Rotating.pdf) document to program the robot through the **Real VNC Viewer** software. 
 
 **Movements to demonstrate to instructor**
 * Rotate clockwise for 1 second with a speed of 50, then stop indefinitely
