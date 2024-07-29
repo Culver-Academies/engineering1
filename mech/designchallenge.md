@@ -4,9 +4,9 @@ Complete the [Mechatronics Unit EDP Portfolio](https://raw.githubusercontent.com
 
 
 
-**Customer Requirements**
+## **Customer Requirements**
 - Send a search-and-rescue robot to the destination as **quickly** and **safely** as possible.
   - The robot cannot touch any dangerous items (e.g. cones).
   - The robot should reach the destination in under 10 seconds
  
-**Design Constraints**
+## **Design Constraints**
