@@ -21,7 +21,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
         pip install jupyter-book ghp-import
 
     - name: Build JupyterBook
@@ -29,7 +28,7 @@ jobs:
 
     - name: Deploy to GitHub Pages
       env:
-        GITHUB_TOKEN: ${{ secrets.PUBLISH_WEBSITE_ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PUBLISH_WEBSITE_ACCESS_TOKEN_TWO }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
