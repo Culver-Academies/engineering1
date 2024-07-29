@@ -15,3 +15,7 @@ Complete the [Mechatronics Unit EDP Portfolio](https://raw.githubusercontent.com
 - Your first attempt must include a **time-based** Python code to autonomously control the robot
 - Addtional attempts can include sensors, camera, and app controls
 - Your code must include proper **comments** throughout
+
+## Search-and-Rescue Obstacle Course
+
+
