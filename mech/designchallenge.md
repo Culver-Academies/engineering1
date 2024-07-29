@@ -18,8 +18,9 @@ Complete the [Mechatronics Unit EDP Portfolio](https://raw.githubusercontent.com
 
 ## Search-and-Rescue Obstacle Course
 
-Use the image below to overlay on your Excel file. 
+Use the image below to overlay on your Excel file for **Step 5** of your portfolio. 
 
 ![Search and Rescue Obstacle Course](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/Robot_Course.png)
+[Search and Rescue Obstacle Course](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/Robot_Course.png)
 
 
