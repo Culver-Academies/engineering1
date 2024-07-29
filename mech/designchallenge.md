@@ -1,5 +1,6 @@
 # Mechatronics Design Challenge
 
+For this challenge you will not be altering the mechanical design of the robot, but instead be designing a program.
 Complete the [Mechatronics Unit EDP Portfolio](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/Mechatronics_Unit_Project_EDP_Template_Updated_7-25-24.docx) using the below information. 
 
 
