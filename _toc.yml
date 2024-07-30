@@ -27,5 +27,5 @@ parts:
         - file: mech/optimization.md
         - file: mech/designchallenge.md
         
-      - file: bio/biomedical.md
+    #  - file: bio/biomedical.md
 
