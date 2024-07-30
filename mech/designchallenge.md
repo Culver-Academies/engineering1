@@ -7,8 +7,8 @@ Complete the [Mechatronics Unit EDP Portfolio](https://raw.githubusercontent.com
 
 ## Customer Requirements
 - Send a search-and-rescue robot to the destination as **quickly** and **safely** as possible.
-  - The robot cannot touch any dangerous items (e.g. cones).
   - The robot should reach the destination in under 10 seconds
+  - The robot cannot touch any dangerous items (e.g. cones).
  
 ## Design Constraints
 - You must use the TurboPi robot as your search-and-rescue robot
