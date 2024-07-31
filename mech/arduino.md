@@ -19,7 +19,7 @@ Read through the following PDF and take notes in your **Engineering Notebook** o
 
 Read through the following PDF and take notes in your **Engineering Notebook** on the syntax of the Blink program as well as functions used within the program. You will need to know how to make comments within a program and how to use the following functions: *setup*, *loop*, *digitalWrite*, and *delay*.  Use the Arduino Reference link below to find out more about each function. 
 
-[Blink and Add Libraries.pdf](https://drive.google.com/file/d/1K_59O8riaTt0U8QjNAIXVQDmxSYzLI2a/view?usp=drive_link) 
+[Blink and Add Libraries.pdf](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/1.2_First_Look_Arduino.pdf)
 
 [Arduino Reference](https://www.arduino.cc/reference/en/)
 
