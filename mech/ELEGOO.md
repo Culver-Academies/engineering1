@@ -2,7 +2,7 @@
 
 Work through the ELEGOO Super Starter Kit Modified Manual and document your work in your **Engineering Notebook**. 
 
-[ELEGOO Super Starter Kit Modified Manual.pdf](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/1.2_First_Look_Arduino.pdf)
+[ELEGOO Super Starter Kit Modified Manual.pdf](https://raw.githubusercontent.com/Culver-Academies/engineering1/main/files/ELEGOO_Super-Starter_Kit_Modified_Manual.pdf)
 
 Takes notes over **ALL** functions used and concepts mentioned below. Document what you did each day and any troubleshooting in your **Engineering Notebook**.  Use the Arduino Reference link to find out more about each function used in each lesson. 
 
