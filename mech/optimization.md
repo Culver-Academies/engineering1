@@ -10,7 +10,9 @@ There are many paths through the dangerous materials and you must decide, using 
 
 The speed of the robot can be determined using the basic speed equation: 
 
+$$
 **Speed (ft/s) = Distance (ft)/Time (s)**
+$$
 
 **Complete the following in your Engineering Notebook**
 
