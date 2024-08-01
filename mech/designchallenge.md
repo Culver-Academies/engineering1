@@ -25,5 +25,5 @@ Use the image below to overlay on your Excel file for **Step 5** of your portfol
 
 ## Testing your TurboPi Robot on the Course
 
-You may not test your TurboPi Robot on the course until you have completed Steps 1-5a of your portfolio, including the **Pseudocode** for your program. Your team is responsible to reset the course after each test on the course. The cone's edge must sit fully within the blue tape (not over) on **ALL** sides. **DO NOT** start your test until the previous team has reset the course. If the course is not set properly, your test will not count. 
+You may not test your TurboPi Robot on the course until you have completed Steps 1-5a of your portfolio, including the **Pseudocode** for your program. Your team is responsible to reset the course after each test on the course. The cone's edge must sit fully within the blue tape (not over) on **ALL** sides. **DO NOT** begin testing the robot on the field until the previous team has reset the course. If the course is not set properly, your test will not count. 
 
