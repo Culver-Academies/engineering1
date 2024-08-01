@@ -24,7 +24,9 @@ $$
 
 In a similar fashion to your forward speed, you can calculate the turning speed of your robot: 
 
+$$
 **Turning Speed (degrees/s) = Turn angle (degrees)/Time (s)**
+$$
 
 **Complete the following in your Engineering Notebook**
 
