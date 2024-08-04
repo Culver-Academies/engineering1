@@ -11,3 +11,5 @@ My hope is that you become familiar with the knowledge and skills of becoming an
 
 ```{tableofcontents}
 ```
+
+This website was created by Mr. David Lawrence and Prof. Alex Dowling as part of a summer experience for teachers at the University of Notre Dame supported by grant CBET-1941596 from the U.S. National Science Foundation.
